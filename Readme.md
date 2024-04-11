@@ -3,6 +3,7 @@
     - Gaurav Bhatt
     portfolio :https://portfolio-zeta-six-85.vercel.app/
     LinkedIn : https://www.linkedin.com/in/golubhattuk01/
+    resume :https://drive.google.com/file/d/112mKGF6FLwukA0mzI3mLx6_-U9CMWcnB/view?usp=sharing
 
 Income over 8 (>) Lakhs, the amount over 8 Lakhs is taxed at
 
@@ -16,17 +17,17 @@ a person having 12 lakh gross income , 4 lakhs is total applicable deductions an
 -->>>> if person is under 40
 he will pay 0.60 lakhs
 
-![alt text](image-2.png)
+![alt text](image/image-2.png)
 
 -->>>> if person is lies between 40 and 60
 he will pay 0.80 lakhs
 
-![alt text](image-1.png)
+![alt text](image/image-1.png)
 
 -->>>> if person is over
 he will pay 0.20 lakhs
 
-![alt text](image.png)
+![alt text](image/image.png)
 
 if we don't fill mandatory fields we get error like this
-![alt text](image-3.png)
+![alt text](image/image-3.png)
