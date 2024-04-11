@@ -28,6 +28,5 @@ he will pay 0.20 lakhs
 
 ![alt text](image.png)
 
-    if we don't fill mandatory fields we get error like this
-
-    ![alt text](image-3.png)
+if we don't fill mandatory fields we get error like this
+![alt text](image-3.png)
